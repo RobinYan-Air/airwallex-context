@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/RobinYan-Air/airwallex-context/issues"
   },
-  "homepage": "https://github.com/RobinYan-Air/airwallex-context#readme"
+  "homepage": "https://github.com/RobinYan-Air/airwallex-context#readme",
+  "dependencies": {
+    "@airwallex/frontend-common": "^0.2.1",
+    "lodash.capitalize": "^4.2.1"
+  }
 }
